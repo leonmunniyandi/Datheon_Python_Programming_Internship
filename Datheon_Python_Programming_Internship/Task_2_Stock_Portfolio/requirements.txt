@@ -1,0 +1,2 @@
+# Optional: only needed for python portfolio.py --live
+yfinance>=0.2.54,<2

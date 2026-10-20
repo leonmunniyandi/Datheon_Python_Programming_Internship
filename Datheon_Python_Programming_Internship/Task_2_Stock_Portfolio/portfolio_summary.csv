@@ -1,0 +1,4 @@
+snapshot_id,recorded_at_utc,symbol,company,shares,average_buy_price_usd,current_price_usd,invested_usd,market_value_usd,gain_loss_usd,gain_loss_percent,price_as_of,price_source
+ea36964b7aa0415ab4bbba424cd340a4,2026-10-20T08:07:31+00:00,AAPL,Apple Inc.,10,150,165,1500.00,1650.00,150.00,10.00,2026-10-20T08:07:31+00:00,Manual input
+ea36964b7aa0415ab4bbba424cd340a4,2026-10-20T08:07:31+00:00,MSFT,Microsoft,2,300,270,600.00,540.00,-60.00,-10.00,2026-10-20T08:07:31+00:00,Manual input
+ea36964b7aa0415ab4bbba424cd340a4,2026-10-20T08:07:31+00:00,TOTAL,Portfolio total,,,,2100.00,2190.00,90.00,4.29,,
